@@ -1,0 +1,86 @@
+{
+    "questions": [{
+            "questionText": "Far-right protestors tried to storm the parliament building in which country?",
+            "answers": [{
+                    "label" : "Austrailia" 
+                },
+                {
+                    "label" : "Britain" 
+
+                },
+                {
+                    "label" : "France" 
+
+                },
+                {
+                    "label" : "Germany" 
+
+                }
+            ],
+            "correct": "Germany"
+        },
+        {
+            "questionText": "Why did Shinzo Abe, prime minister of Japan, resign from office?",
+            "answers": [{
+                "label" : "An extramarital affair" 
+
+                },
+                {
+                    "label" : "Fraud" 
+
+                },
+                {
+                    "label" : "Illness" 
+
+                },
+                {
+                    "label" : "Protests" 
+
+                }
+            ],
+            "correct": "Illness"
+        },
+        {
+            "questionText": "What did two commercial jet pilots reported seeing in the busy airspace near Los Angeles International Airport?",
+            "answers": [{
+                "label" : "An Attack drone" 
+
+                },
+                {
+                    "label" : "A man with jetpack" 
+
+                },
+                {
+                    "label" : "A girl attached to a kite" 
+
+                },
+                {
+                    "label" : "A U.F.O" 
+
+                }
+            ],
+            "correct": "A man with jetpack"
+        },
+        {
+            "questionText": "After more than seven decades of absence, jaguars are being reintroduced into the wetlands of which country?",
+            "answers": [{
+                "label" : "Argentina" 
+
+                },
+                {
+                    "label" : "Belize" 
+
+                },
+                {
+                    "label" : "Colombia" 
+
+                },
+                {
+                    "label" : "Mexico" 
+
+                }
+            ],
+            "correct": "Argentina"
+        }
+    ]
+}
